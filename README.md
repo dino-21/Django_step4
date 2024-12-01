@@ -6,10 +6,23 @@ https://github.com/dino-21/Django_step4
 
 
 
+
+
+
+
 ![16](https://github.com/user-attachments/assets/b0216b3a-e3d8-443b-a7c4-2c482293699c)
 
 
+
+
+
+
+
 ![18](https://github.com/user-attachments/assets/332539ed-7b6f-467a-aca5-9967b4e3bea6)
+
+
+
+
 
 
 
