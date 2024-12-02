@@ -1,5 +1,5 @@
-점프 투 장고 step3 - 게시판_ 회원가입
-https://github.com/dino-21/Django_step4
+점프 투 장고 step4 - 게시판_ 회원가입
+
 
 
 ![14](https://github.com/user-attachments/assets/b6d0327c-8e9d-4b9f-a86f-35091728370f)
